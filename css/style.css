@@ -42,6 +42,7 @@ a{
 .header-right .icon-shopping{
     margin-top: 10px;
     gap: 30px;
+    cursor: pointer;
 }
 .logo{
     width: 100px;
